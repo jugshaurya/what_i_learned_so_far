@@ -1,0 +1,26 @@
+
+Permutation and Combination 
+
+	1.Q--> B. Tavas and SaDDas(lucky number problem) codeforces problem--> http://codeforces.com/problemset/problem/535/B
+
+BITMASKING
+
+1). All operators(& ,| ,^ ,>> ,<< ,~)
+2). Problem--> UNIQUE NUMBER - I (i.e.  find a unique number from an array having all digit apearing twice except the single value, which is 	required to be the output).
+3). 2's Complement
+4). Bitwise checking of ODD and EVEN
+5). Calculate the number of set bits in a number --> O(logn) method + O(#setBits)( i.e n = n&(n-1) hack ) + Incredible HULK PROBLEM (The Planet	 Earth 	is under a threat from the aliens of the outer space and the Marvel Avengers team is busy fighting against them. Meanwhile, The 	Incredible Hulk	has to defeat an enemy who is N steps above the level where he is standing (assume it as the 0th level). Hulk, because of 	his incredible 	jumping ability can take jumps in power of 2. In order to defeat the enemy as quickly as possible he has to reach the Nth 	step in minimum moves 	possible. Help Hulk to find the same and contribute in saving the Mother Earth.)
+6). Bitwise Swapping Function
+7). Some fun(use of mask):  - a)get ith bit of a number. B)set ith bit. C) clear the ith bit.
+8). find subsequences/subsets of a string using bitmasking - O((2^n)).
+9). Problem-->codechef question MARCHA1  https://www.codechef.com/problems/MARCHA1
+10). Problem-->UNIQUE NUMBERS - II
+	We are given an array containg n numbers. All the numbers are present twice except for two numbers which are present only once. Find the 	unique numbers in linear time without using any extra space.
+
+11). Problem-->UNIQUE NUMBER - III
+	We are given an array containg n numbers. All the numbers are present thrice except for one number which is only present once. Find the 	unique number. 
+12). Problem -->XOR PROFIT PROBLEM
+	We are given two coins of value x and y. We have to find the maximum of value of a XOR b where x <= a <= b <= y.(easy peasy)
+
+ 
+
